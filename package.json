@@ -1,0 +1,23 @@
+{
+  "name": "tarifedf",
+  "version": "0.0.1",
+  "description": "Recuperation des tarifs edf courant à partir du site developpement-durable.bsocom.fr. Fonctionne pour les tarifs base, heure creuse et tempo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanfabrice/tarifedf.git"
+  },
+  "author": "Jean-Fabrice Bobo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanfabrice/tarifedf/issues"
+  },
+  "homepage": "https://github.com/jeanfabrice/tarifedf#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "underscore": "^1.8.3"
+  }
+}
