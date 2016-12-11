@@ -14,10 +14,9 @@ Une seule methode est disponible, la methode 'current'. Elle renvoie un objet JS
 
 Exemple :
 
-.. code:: json
-  {"MONTH":"nov-16","ABO":56.0686,"BASE":15.6435}
-  {"MONTH":"nov-16","ABO":100.5141,"HCHP":15.5955,"HCHC":12.7035}
-  {"MONTH":"nov-16","ABO":597.2093,"BBRHCJB":10.7475,"BBRHPJB":12.7755,"BBRHCJW":13.9995,"BBRHPJW":16.7355,"BBRHCJR":21.6075,"BBRHPJR":52.1595}
+  ``{"MONTH":"nov-16","ABO":56.0686,"BASE":15.6435}``
+  ``{"MONTH":"nov-16","ABO":100.5141,"HCHP":15.5955,"HCHC":12.7035}``
+  ``{"MONTH":"nov-16","ABO":597.2093,"BBRHCJB":10.7475,"BBRHPJB":12.7755,"BBRHCJW":13.9995,"BBRHPJW":16.7355,"BBRHCJR":21.6075,"BBRHPJR":52.1595}``
 
 
 ***********
