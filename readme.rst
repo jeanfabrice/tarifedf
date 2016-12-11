@@ -4,7 +4,7 @@ Introduction
 
 Ce module NodeJS indique le dernier tarif EDF disponible pour l'option indiquée (base, hc ou tempo) et l'intensité souscrite.
 
-Les données sont tirées de la base Sit@del2, hébergée sur http://developpement-durable.bscom.fr.
+Les données sont tirées de la base ``Sit@del2``, hébergée sur http://developpement-durable.bsocom.fr.
 
 Une seule methode est disponible, la methode 'current'. Elle renvoie un objet JSON qui contient :
 
