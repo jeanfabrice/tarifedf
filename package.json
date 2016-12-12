@@ -1,7 +1,7 @@
 {
   "name": "tarifedf",
-  "version": "0.0.2",
-  "description": "Recuperation des tarifs edf courant à partir du site developpement-durable.bsocom.fr. Fonctionne pour les tarifs base, heure creuse et tempo.",
+  "version": "0.0.3",
+  "description": "Récuperation du tarif EDF courant à partir du site developpement-durable.bsocom.fr. Fonctionne pour les tarifs base, heure creuse et tempo.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
