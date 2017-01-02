@@ -4,9 +4,9 @@ var xml         = require( 'xml' );
 var parseString = require( 'xml2js' ).parseString;
 
 var reportId = {
-  'base'  : 13922,
-  'hc'    : 13926,
-  'tempo' : 13928
+  'base'  : 14189,
+  'hc'    : 14192,
+  'tempo' : 14194
 }
 
 var refTarif = {
